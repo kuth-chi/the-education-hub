@@ -1,2 +1,2 @@
-# the-education-hub
-Made to make better ways for everyone access.
+# The Eduction Hub
+EducationHub is a education network for everyone.
