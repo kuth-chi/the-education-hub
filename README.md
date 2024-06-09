@@ -17,7 +17,8 @@ School info              :         school_info, after education, 5d
 ````
 
 ## Features
-- [ ] <strong> Education Roadmaps<strong>: 
+- [ ] <strong> Education Roadmaps<strong>:
+- [ ] Resume builder 
 - [ ] Scholarship
 - [ ] School Information
 - [ ] Scholar Foundation
