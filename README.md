@@ -1,4 +1,4 @@
-# The Eduction Hub
+# Eduction Hub
 EducationHub is a education network for everyone. 
 > [!TIP]
 > User is who using our platform on any devices both registered or non-registered. User can explore useful documents for education, scholarship, school information and more.
